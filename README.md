@@ -10,7 +10,7 @@ You will need:
 * Domain name
 
 ```
-git clone https://github.com/reckr/cloudflare-dns-creator.git
+git clone https://github.com/dolhaps2000/cloudflare-dns-creator.git
 ```
 
 Alternatively, download as [a ZIP-archive](https://github.com/reckr/cloudflare-dns-creator/archive/master.zip) and extract the files to your web server.
